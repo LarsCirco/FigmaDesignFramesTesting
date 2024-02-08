@@ -1,5 +1,7 @@
 # FigmaDesignFramesTesting Templates navigation for simplifications
-[!NOTE] Content:
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 * [Go to Product Templates](#product-display-600x400)
 
 * [Contact Us Template](#contact-us-templates)
